@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" font-family="Georgia, 'Times New Roman', serif">
+<rect width="1200" height="630" fill="#FBF7F0"/>
+<rect x="0" y="0" width="1200" height="10" fill="#E45B3B"/>
+<text x="72" y="96" font-family="Helvetica, Arial, sans-serif" font-size="22" letter-spacing="3" fill="#6B655C">PLANCK MEDIA &#160;&#8226;&#160; БЕНЧМАРК / ДАТАСЕТ</text>
+<text x="72" y="190" font-size="58" font-weight="700" fill="#1C1A17">Одна числовая модель</text>
+<text x="72" y="264" font-size="58" font-weight="700" fill="#1C1A17">приблизилась к специалистам в</text>
+<text x="72" y="338" font-size="58" font-weight="700" fill="#1C1A17">дисциплинах, которых не видела</text>
+<line x1="72" y1="416" x2="1128" y2="416" stroke="#E4DDD1" stroke-width="2"/>
+<text x="72" y="470" font-size="46" font-weight="700" fill="#E45B3B">20</text>
+<text x="72" y="504" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#6B655C">Одноисточниковая модель,</text>
+<text x="72" y="528" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#6B655C">обученная с тем же…</text>
+</svg>
