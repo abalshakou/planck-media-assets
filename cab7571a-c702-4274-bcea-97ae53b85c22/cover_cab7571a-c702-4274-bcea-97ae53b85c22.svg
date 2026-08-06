@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" font-family="Georgia, 'Times New Roman', serif">
+<rect width="1200" height="630" fill="#FBF7F0"/>
+<rect x="0" y="0" width="1200" height="10" fill="#E45B3B"/>
+<text x="72" y="96" font-family="Helvetica, Arial, sans-serif" font-size="22" letter-spacing="3" fill="#6B655C">PLANCK MEDIA &#160;&#8226;&#160; МЕТОД</text>
+<text x="72" y="190" font-size="58" font-weight="700" fill="#1C1A17">Модель обучили на</text>
+<text x="72" y="264" font-size="58" font-weight="700" fill="#1C1A17">синтетических сигналах — и</text>
+<text x="72" y="338" font-size="58" font-weight="700" fill="#1C1A17">применили к незнакомым…</text>
+<text x="72" y="470" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#6B655C">LEAKFORGE — это device-agnostic фреймворк, который</text>
+<text x="72" y="504" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#6B655C">преобразует кросс-девайсный акселерометр-эксфильтрацию в</text>
+<text x="72" y="538" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#6B655C">задачу генерации данных, управляемую физикой, что…</text>
+</svg>
